@@ -2,7 +2,7 @@
 
 
 
--- SmoothyFrames v1.0 | 05.05.2015 --
+-- SmoothyPlates v1.2 | 03.06.2015 --
 
 Vènomstrikè
 
