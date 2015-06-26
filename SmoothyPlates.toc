@@ -1,0 +1,30 @@
+## Interface: 60200
+## Title: SmoothyPlates by |cffff0020Vènomstrikè|r
+## Notes: ArenaPlates
+## Author: Max aka Vènomstrikè
+## Version: 1.0.1
+## SavedVariablesPerCharacter: SPDB
+## X-Curse-Packaged-Version: r2.1
+## X-Curse-Project-Name: SmoothyPlates
+## X-Curse-Project-ID: smoothyplates
+## X-Curse-Repository-ID: wow/smoothyplates/mainline
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceTimer-3.0\AceTimer-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceSerializer-3.0\AceSerializer-3.0.xml
+Libs\LibQTip-1.0\lib.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\LibNameplateRegistry-1.0\LibNameplateRegistry-1.0.xml
+Libs\LibSmoothStatusBar-1.0\LibSmoothStatusBar-1.0.lua
+
+SmoothyPlates.lua
+
+Modules\cctracker.lua
+Modules\combopoints.lua
+Modules\debuffs.lua
+
