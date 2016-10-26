@@ -13,5 +13,9 @@
 ## X-Curse-Project-Name: SmoothyPlates
 ## X-Curse-Project-ID: smoothyplates
 ## X-Curse-Repository-ID: wow/smoothyplates/mainline
+## X-Curse-Packaged-Version: r3.1
+## X-Curse-Project-Name: SmoothyPlates
+## X-Curse-Project-ID: smoothyplates
+## X-Curse-Repository-ID: wow/smoothyplates/mainline
 
 LibSmoothStatusBar-1.0.xml
