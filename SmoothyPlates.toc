@@ -1,4 +1,4 @@
-﻿## Interface: 70200
+## Interface: 70200
 ## Title: SmoothyPlates by |cffff0020Vènomstrikè|r
 ## Notes: Smoothy Plates :)
 ## Author: Max David aka Vènomstrikè
